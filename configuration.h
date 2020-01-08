@@ -1,0 +1,25 @@
+/**
+ * HARDWARE
+ */
+#define LED_STRIP_PIN 4
+#define LED_COUNT 144
+
+
+/**
+ * GOVERNING VALUES
+ */
+#define DRAW_DELAY 1
+#define MAX_STREAM_LENGTH 10
+#define MIN_STREAM_LENGTH 1
+#define MAX_BRIGHTNESS 250
+#define MIN_BRIGHTNESS 10
+#define MIN_SPEED 200
+#define MAX_SPEED 10
+
+
+ /**
+  * DEFAULT VALUES
+  */
+#define DEFAULT_BRIGHTNESS 120
+#define DEFAULT_SPEED 50
+#define DEFAULT_STREAM_LENGTH 10
